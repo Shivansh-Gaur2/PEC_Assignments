@@ -1,3 +1,3 @@
 # PEC_Assignments
-#Name:- Shivansh Gaur
-#SID:- 21104049
+Name:- Shivansh Gaur
+SID:- 21104049
